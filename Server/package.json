@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "express": "latest"
+  },
+  "author": "Pascal Reichmuth, pascal.reichmuth@htwchur.ch",
+  "license": "MIT"
+}
